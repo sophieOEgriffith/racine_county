@@ -1,0 +1,97 @@
+SCHOOL_NAME,SCHOOL_YEAR,AGENCY_TYPE,CESA,COUNTY,DISTRICT_CODE.x,SCHOOL_CODE.x,GRADE_GROUP,CHARTER_IND,DISTRICT_NAME.x,ACTIVITY_TYPE,FALL_ENROLLMENT_GRADE_6_12,OFFERINGS,STUDENTS_PARTICIPATING,PARTICIPATION_RATE,DISTRICT_CODE.y,SCHOOL_CODE.y,DISTRICT_NAME.y,TOTAL_FALL_ENROLLMENT_K_12,STUDENTS_HABITUALLY_TRUANT,TRUANCY_RATE
+[Districtwide],2016-17,Non District Charter Schools,01,Racine,8110,0000,[Districtwide],Yes,21st Century Preparatory School,Academic,132,11,52,39.39,8110,0000,21st Century Preparatory School,499,32,6.41
+[Districtwide],2016-17,Non District Charter Schools,01,Racine,8110,0000,[Districtwide],Yes,21st Century Preparatory School,Athletic,132,2,36,27.27,8110,0000,21st Century Preparatory School,499,32,6.41
+[Districtwide],2016-17,Non District Charter Schools,01,Racine,8110,0000,[Districtwide],Yes,21st Century Preparatory School,Music,132,2,81,61.36,8110,0000,21st Century Preparatory School,499,32,6.41
+21st Century Preparatory School,2016-17,Non District Charter Schools,01,Racine,8110,0100,Elementary School,Yes,21st Century Preparatory School,Academic,132,11,52,39.39,8110,0100,21st Century Preparatory School,499,32,6.41
+21st Century Preparatory School,2016-17,Non District Charter Schools,01,Racine,8110,0100,Elementary School,Yes,21st Century Preparatory School,Athletic,132,2,36,27.27,8110,0100,21st Century Preparatory School,499,32,6.41
+21st Century Preparatory School,2016-17,Non District Charter Schools,01,Racine,8110,0100,Elementary School,Yes,21st Century Preparatory School,Music,132,2,81,61.36,8110,0100,21st Century Preparatory School,499,32,6.41
+Burlington High,2016-17,Public school,02,Racine,0777,0020,High School,No,Burlington Area,Academic,1128,21,379,33.59,0777,0020,Burlington Area,1128,378,33.51
+Burlington High,2016-17,Public school,02,Racine,0777,0020,High School,No,Burlington Area,Athletic,1128,29,481,42.64,0777,0020,Burlington Area,1128,378,33.51
+Burlington High,2016-17,Public school,02,Racine,0777,0020,High School,No,Burlington Area,Music,1128,2,149,13.2,0777,0020,Burlington Area,1128,378,33.51
+Case High,2016-17,Public school,01,Racine,4620,0491,High School,No,Racine Unified,Academic,1950,6,142,7.28,4620,0491,Racine Unified,1950,511,26.2
+Case High,2016-17,Public school,01,Racine,4620,0491,High School,No,Racine Unified,Athletic,1950,23,840,43.07,4620,0491,Racine Unified,1950,511,26.2
+Case High,2016-17,Public school,01,Racine,4620,0491,High School,No,Racine Unified,Music,1950,35,814,41.74,4620,0491,Racine Unified,1950,511,26.2
+Dr Edward G Dyer School,2016-17,Public school,02,Racine,0777,0110,Elementary School,No,Burlington Area,Academic,212,15,239,112.73,0777,0110,Burlington Area,420,47,11.19
+Dr Edward G Dyer School,2016-17,Public school,02,Racine,0777,0110,Elementary School,No,Burlington Area,Athletic,212,4,65,30.66,0777,0110,Burlington Area,420,47,11.19
+Dr Edward G Dyer School,2016-17,Public school,02,Racine,0777,0110,Elementary School,No,Burlington Area,Music,212,7,238,112.26,0777,0110,Burlington Area,420,47,11.19
+Drought Elementary,2016-17,Public school,02,Racine,4011,0020,Elementary School,No,Norway J7,Academic,27,5,75,277.77,4011,0020,Norway J7,90,0,NA
+Drought Elementary,2016-17,Public school,02,Racine,4011,0020,Elementary School,No,Norway J7,Athletic,27,10,99,366.66,4011,0020,Norway J7,90,0,NA
+Drought Elementary,2016-17,Public school,02,Racine,4011,0020,Elementary School,No,Norway J7,Music,27,2,92,340.74,4011,0020,Norway J7,90,0,NA
+Evergreen Elementary,2016-17,Public school,02,Racine,6113,0015,Elementary School,No,Waterford Graded J1,Academic,59,3,24,40.67,6113,0015,Waterford Graded J1,418,11,2.63
+Evergreen Elementary,2016-17,Public school,02,Racine,6113,0015,Elementary School,No,Waterford Graded J1,Athletic,59,0,0,0,6113,0015,Waterford Graded J1,418,11,2.63
+Evergreen Elementary,2016-17,Public school,02,Racine,6113,0015,Elementary School,No,Waterford Graded J1,Music,59,1,7,11.86,6113,0015,Waterford Graded J1,418,11,2.63
+Fox River Middle,2016-17,Public school,02,Racine,6113,0010,Middle School,No,Waterford Graded J1,Academic,355,3,47,13.23,6113,0010,Waterford Graded J1,355,30,8.45
+Fox River Middle,2016-17,Public school,02,Racine,6113,0010,Middle School,No,Waterford Graded J1,Athletic,355,5,151,42.53,6113,0010,Waterford Graded J1,355,30,8.45
+Fox River Middle,2016-17,Public school,02,Racine,6113,0010,Middle School,No,Waterford Graded J1,Music,355,12,135,38.02,6113,0010,Waterford Graded J1,355,30,8.45
+Gifford Elementary,2016-17,Public school,01,Racine,4620,0119,Elementary School,No,Racine Unified,Academic,333,0,0,0,4620,0119,Racine Unified,1385,45,3.24
+Gifford Elementary,2016-17,Public school,01,Racine,4620,0119,Elementary School,No,Racine Unified,Athletic,333,0,0,0,4620,0119,Racine Unified,1385,45,3.24
+Gifford Elementary,2016-17,Public school,01,Racine,4620,0119,Elementary School,No,Racine Unified,Music,333,10,256,76.87,4620,0119,Racine Unified,1385,45,3.24
+Gilmore Middle,2016-17,Public school,01,Racine,4620,0280,Middle School,No,Racine Unified,Academic,516,0,0,0,4620,0280,Racine Unified,517,144,27.85
+Gilmore Middle,2016-17,Public school,01,Racine,4620,0280,Middle School,No,Racine Unified,Athletic,516,0,0,0,4620,0280,Racine Unified,517,144,27.85
+Gilmore Middle,2016-17,Public school,01,Racine,4620,0280,Middle School,No,Racine Unified,Music,516,10,411,79.65,4620,0280,Racine Unified,517,144,27.85
+Horlick High,2016-17,Public school,01,Racine,4620,0492,High School,No,Racine Unified,Academic,1758,16,362,20.59,4620,0492,Racine Unified,1758,671,38.16
+Horlick High,2016-17,Public school,01,Racine,4620,0492,High School,No,Racine Unified,Athletic,1758,27,627,35.66,4620,0492,Racine Unified,1758,671,38.16
+Horlick High,2016-17,Public school,01,Racine,4620,0492,High School,No,Racine Unified,Music,1758,41,1129,64.22,4620,0492,Racine Unified,1758,671,38.16
+Jerstad-Agerholm Middle,2016-17,Public school,01,Racine,4620,0282,Middle School,No,Racine Unified,Academic,584,0,0,0,4620,0282,Racine Unified,584,129,22.08
+Jerstad-Agerholm Middle,2016-17,Public school,01,Racine,4620,0282,Middle School,No,Racine Unified,Athletic,584,0,0,0,4620,0282,Racine Unified,584,129,22.08
+Jerstad-Agerholm Middle,2016-17,Public school,01,Racine,4620,0282,Middle School,No,Racine Unified,Music,584,13,420,71.91,4620,0282,Racine Unified,584,129,22.08
+Kansasville Elementary,2016-17,Public school,02,Racine,1449,0020,Elementary School,No,Dover #1,Academic,27,3,13,48.14,1449,0020,Dover #1,107,0,NA
+Kansasville Elementary,2016-17,Public school,02,Racine,1449,0020,Elementary School,No,Dover #1,Athletic,27,6,22,81.48,1449,0020,Dover #1,107,0,NA
+Kansasville Elementary,2016-17,Public school,02,Racine,1449,0020,Elementary School,No,Dover #1,Music,27,2,16,59.25,1449,0020,Dover #1,107,0,NA
+McKinley Middle,2016-17,Public school,01,Racine,4620,0284,Middle School,No,Racine Unified,Academic,608,0,0,0,4620,0284,Racine Unified,608,99,16.28
+McKinley Middle,2016-17,Public school,01,Racine,4620,0284,Middle School,No,Racine Unified,Athletic,608,0,0,0,4620,0284,Racine Unified,608,99,16.28
+McKinley Middle,2016-17,Public school,01,Racine,4620,0284,Middle School,No,Racine Unified,Music,608,14,465,76.48,4620,0284,Racine Unified,608,99,16.28
+Mitchell Middle,2016-17,Public school,01,Racine,4620,0286,Middle School,No,Racine Unified,Academic,626,0,0,0,4620,0286,Racine Unified,626,77,12.3
+Mitchell Middle,2016-17,Public school,01,Racine,4620,0286,Middle School,No,Racine Unified,Athletic,626,0,0,0,4620,0286,Racine Unified,626,77,12.3
+Mitchell Middle,2016-17,Public school,01,Racine,4620,0286,Middle School,No,Racine Unified,Music,626,12,433,69.16,4620,0286,Racine Unified,626,77,12.3
+Nettie E Karcher School,2016-17,Public school,02,Racine,0777,0040,Middle School,No,Burlington Area,Academic,445,7,122,27.41,0777,0040,Burlington Area,445,37,8.31
+Nettie E Karcher School,2016-17,Public school,02,Racine,0777,0040,Middle School,No,Burlington Area,Athletic,445,11,276,62.02,0777,0040,Burlington Area,445,37,8.31
+Nettie E Karcher School,2016-17,Public school,02,Racine,0777,0040,Middle School,No,Burlington Area,Music,445,2,35,7.86,0777,0040,Burlington Area,445,37,8.31
+North Cape Elementary,2016-17,Public school,02,Racine,4690,0020,Elementary School,No,North Cape,Academic,47,4,30,63.82,4690,0020,North Cape,173,0,NA
+North Cape Elementary,2016-17,Public school,02,Racine,4690,0020,Elementary School,No,North Cape,Athletic,47,5,40,85.1,4690,0020,North Cape,173,0,NA
+North Cape Elementary,2016-17,Public school,02,Racine,4690,0020,Elementary School,No,North Cape,Music,47,1,16,34.04,4690,0020,North Cape,173,0,NA
+Park High,2016-17,Public school,01,Racine,4620,0494,High School,No,Racine Unified,Academic,1418,3,171,12.05,4620,0494,Racine Unified,1418,627,44.21
+Park High,2016-17,Public school,01,Racine,4620,0494,High School,No,Racine Unified,Athletic,1418,23,555,39.13,4620,0494,Racine Unified,1418,627,44.21
+Park High,2016-17,Public school,01,Racine,4620,0494,High School,No,Racine Unified,Music,1418,36,533,37.58,4620,0494,Racine Unified,1418,627,44.21
+Racine Alternative Learning,2016-17,Public school,01,Racine,4620,0801,Combined Elementary/Secondary School,No,Racine Unified,Academic,174,0,0,0,4620,0801,Racine Unified,179,137,76.53
+Racine Alternative Learning,2016-17,Public school,01,Racine,4620,0801,Combined Elementary/Secondary School,No,Racine Unified,Athletic,174,0,0,0,4620,0801,Racine Unified,179,137,76.53
+Racine Alternative Learning,2016-17,Public school,01,Racine,4620,0801,Combined Elementary/Secondary School,No,Racine Unified,Music,174,13,244,140.22,4620,0801,Racine Unified,179,137,76.53
+Racine Civil Leaders Academy,2016-17,Public school,01,Racine,4620,0100,Elementary School,Yes,Racine Unified,Academic,13,0,0,0,4620,0100,Racine Unified,180,67,37.22
+Racine Civil Leaders Academy,2016-17,Public school,01,Racine,4620,0100,Elementary School,Yes,Racine Unified,Athletic,13,0,0,0,4620,0100,Racine Unified,180,67,37.22
+Racine Civil Leaders Academy,2016-17,Public school,01,Racine,4620,0100,Elementary School,Yes,Racine Unified,Music,13,11,230,1769.23,4620,0100,Racine Unified,180,67,37.22
+Raymond Elementary,2016-17,Public school,02,Racine,4686,0020,Elementary School,No,Raymond #14,Academic,138,0,0,0,4686,0020,Raymond #14,429,0,NA
+Raymond Elementary,2016-17,Public school,02,Racine,4686,0020,Elementary School,No,Raymond #14,Athletic,138,0,0,0,4686,0020,Raymond #14,429,0,NA
+Raymond Elementary,2016-17,Public school,02,Racine,4686,0020,Elementary School,No,Raymond #14,Music,138,0,0,0,4686,0020,Raymond #14,429,0,NA
+Starbuck Middle,2016-17,Public school,01,Racine,4620,0288,Middle School,No,Racine Unified,Academic,603,0,0,0,4620,0288,Racine Unified,603,177,29.35
+Starbuck Middle,2016-17,Public school,01,Racine,4620,0288,Middle School,No,Racine Unified,Athletic,603,0,0,0,4620,0288,Racine Unified,603,177,29.35
+Starbuck Middle,2016-17,Public school,01,Racine,4620,0288,Middle School,No,Racine Unified,Music,603,12,400,66.33,4620,0288,Racine Unified,603,177,29.35
+The REAL School-Racine Educational Alternative Learning Experience,2016-17,Public school,01,Racine,4620,0800,High School,Yes,Racine Unified,Academic,344,3,56,16.27,4620,0800,Racine Unified,344,16,4.65
+The REAL School-Racine Educational Alternative Learning Experience,2016-17,Public school,01,Racine,4620,0800,High School,Yes,Racine Unified,Athletic,344,0,0,0,4620,0800,Racine Unified,344,16,4.65
+The REAL School-Racine Educational Alternative Learning Experience,2016-17,Public school,01,Racine,4620,0800,High School,Yes,Racine Unified,Music,344,7,238,69.18,4620,0800,Racine Unified,344,16,4.65
+Trailside Elementary,2016-17,Public school,02,Racine,6113,0100,Elementary School,No,Waterford Graded J1,Academic,54,3,8,14.81,6113,0100,Waterford Graded J1,301,11,3.65
+Trailside Elementary,2016-17,Public school,02,Racine,6113,0100,Elementary School,No,Waterford Graded J1,Athletic,54,0,0,0,6113,0100,Waterford Graded J1,301,11,3.65
+Trailside Elementary,2016-17,Public school,02,Racine,6113,0100,Elementary School,No,Waterford Graded J1,Music,54,2,19,35.18,6113,0100,Waterford Graded J1,301,11,3.65
+Union Grove Elementary,2016-17,Public school,02,Racine,5859,0020,Elementary School,No,Union Grove J1,Academic,311,17,132,42.44,5859,0020,Union Grove J1,817,0,NA
+Union Grove Elementary,2016-17,Public school,02,Racine,5859,0020,Elementary School,No,Union Grove J1,Athletic,311,9,148,47.58,5859,0020,Union Grove J1,817,0,NA
+Union Grove Elementary,2016-17,Public school,02,Racine,5859,0020,Elementary School,No,Union Grove J1,Music,311,2,91,29.26,5859,0020,Union Grove J1,817,0,NA
+Union Grove High,2016-17,Public school,02,Racine,5852,0020,High School,No,Union Grove UHS,Academic,1012,22,233,23.02,5852,0020,Union Grove UHS,1012,29,2.86
+Union Grove High,2016-17,Public school,02,Racine,5852,0020,High School,No,Union Grove UHS,Athletic,1012,35,193,19.07,5852,0020,Union Grove UHS,1012,29,2.86
+Union Grove High,2016-17,Public school,02,Racine,5852,0020,High School,No,Union Grove UHS,Music,1012,5,71,7.01,5852,0020,Union Grove UHS,1012,29,2.86
+Walden III High,2016-17,Public school,01,Racine,4620,0499,High School,No,Racine Unified,Academic,292,7,105,35.95,4620,0499,Racine Unified,292,5,1.71
+Walden III High,2016-17,Public school,01,Racine,4620,0499,High School,No,Racine Unified,Athletic,292,0,0,0,4620,0499,Racine Unified,292,5,1.71
+Walden III High,2016-17,Public school,01,Racine,4620,0499,High School,No,Racine Unified,Music,292,6,256,87.67,4620,0499,Racine Unified,292,5,1.71
+Walden III Middle,2016-17,Public school,01,Racine,4620,0285,Middle School,No,Racine Unified,Academic,246,0,0,0,4620,0285,Racine Unified,246,2,0.81
+Walden III Middle,2016-17,Public school,01,Racine,4620,0285,Middle School,No,Racine Unified,Athletic,246,4,104,42.27,4620,0285,Racine Unified,246,2,0.81
+Walden III Middle,2016-17,Public school,01,Racine,4620,0285,Middle School,No,Racine Unified,Music,246,6,256,104.06,4620,0285,Racine Unified,246,2,0.81
+Washington Elementary,2016-17,Public school,02,Racine,6104,0020,Elementary School,No,Washington-Caldwell,Academic,61,0,0,0,6104,0020,Washington-Caldwell,169,0,NA
+Washington Elementary,2016-17,Public school,02,Racine,6104,0020,Elementary School,No,Washington-Caldwell,Athletic,61,0,0,0,6104,0020,Washington-Caldwell,169,0,NA
+Washington Elementary,2016-17,Public school,02,Racine,6104,0020,Elementary School,No,Washington-Caldwell,Music,61,0,0,0,6104,0020,Washington-Caldwell,169,0,NA
+Waterford High,2016-17,Public school,02,Racine,6083,0020,High School,No,Waterford UHS,Academic,1083,29,445,41.08,6083,0020,Waterford UHS,1083,17,1.56
+Waterford High,2016-17,Public school,02,Racine,6083,0020,High School,No,Waterford UHS,Athletic,1083,23,564,52.07,6083,0020,Waterford UHS,1083,17,1.56
+Waterford High,2016-17,Public school,02,Racine,6083,0020,High School,No,Waterford UHS,Music,1083,7,287,26.5,6083,0020,Waterford UHS,1083,17,1.56
+Woodfield Elementary,2016-17,Public school,02,Racine,6113,0110,Elementary School,No,Waterford Graded J1,Academic,81,4,18,22.22,6113,0110,Waterford Graded J1,461,18,3.9
+Woodfield Elementary,2016-17,Public school,02,Racine,6113,0110,Elementary School,No,Waterford Graded J1,Athletic,81,0,0,0,6113,0110,Waterford Graded J1,461,18,3.9
+Woodfield Elementary,2016-17,Public school,02,Racine,6113,0110,Elementary School,No,Waterford Graded J1,Music,81,1,9,11.11,6113,0110,Waterford Graded J1,461,18,3.9
+Yorkville Elementary,2016-17,Public school,02,Racine,6748,0020,Elementary School,No,Yorkville J2,Academic,201,0,0,0,6748,0020,Yorkville J2,472,0,NA
+Yorkville Elementary,2016-17,Public school,02,Racine,6748,0020,Elementary School,No,Yorkville J2,Athletic,201,0,0,0,6748,0020,Yorkville J2,472,0,NA
+Yorkville Elementary,2016-17,Public school,02,Racine,6748,0020,Elementary School,No,Yorkville J2,Music,201,0,0,0,6748,0020,Yorkville J2,472,0,NA
